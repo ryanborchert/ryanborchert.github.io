@@ -7,3 +7,6 @@ permalink: /blog/:year/:month/:day/:title
 
 # Google Analytics
 google_analytics: UA-143057610-1
+
+plugins:
+  - jekyll-sitemap
