@@ -79,7 +79,7 @@ function drawScore() {
 function drawLives() {
     context.font = "16px Arial";
     context.fillStyle = "#0095DD";
-    context.fillText("Lives: "+lives, canvas.width - 65, 20);
+    context.fillText("Touches: "+ touches, canvas.width - 65, 20);
 }
 
 function draw(timeStamp) {
@@ -168,6 +168,16 @@ function mouseMoveHandler(e) {
     }
 }
 
+var touches = 0;
+function touchMoveHandler(e) {
+    e.preventDefault();
+    var relativeX = e.clientX - canvas.offsetLeft;
+    if(relativeX > 0 && relativeX < canvas.width) {
+        paddleX = relativeX - paddleWidth/2;
+    }
+    touches++;
+}
+
 function collisionDetection() {
     for(var c = 0; c < brickColumnCount; c++) {
         for (var r = 0; r < brickRowCount; r++) {
@@ -191,8 +201,12 @@ function collisionDetection() {
 
 document.addEventListener("keydown", keyDownHandler, false);
 document.addEventListener("keyup", keyUpHandler, false);
-document.addEventListener("mousemove", mouseMoveHandler, false);
-document.addEventListener("touchmove", mouseMoveHandler, false);
+//document.addEventListener("mousemove", mouseMoveHandler, false);
+document.addEventListener("touchmove", touchMoveHandler, false);
+// canvas.addEventListener('touchmove', function(event) {
+//     touches++;
+//   }, false);
+
 draw();
 //var interval = setInterval(draw, 10);
 
