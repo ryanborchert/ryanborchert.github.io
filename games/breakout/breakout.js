@@ -192,7 +192,7 @@ function collisionDetection() {
 document.addEventListener("keydown", keyDownHandler, false);
 document.addEventListener("keyup", keyUpHandler, false);
 document.addEventListener("mousemove", mouseMoveHandler, false);
-
+document.addEventListener("touchmove", mouseMoveHandler, false);
 draw();
 //var interval = setInterval(draw, 10);
 
