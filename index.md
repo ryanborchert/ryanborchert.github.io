@@ -29,9 +29,12 @@ I've managed projects from $100K to $8M+, led teams delivering $30M+ in annual s
 
 Strategic roadmap development, cross-functional leadership, agile & lean methodologies, risk mitigation, mentorship & talent development, program management, cloud & native application development, and data-driven decision making.
 
+## Resume
+
+[View my complete professional background](/resume/ryan-f-borchert-resume.pdf)
+
 ## Connect
 
-- [Resume](/resume/)
 - [LinkedIn](https://linkedin.com/in/ryanborchert)
 - [GitHub](https://github.com/ryanborchert)
 - [ryan.borchert@gmail.com](mailto:ryan.borchert@gmail.com)
