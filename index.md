@@ -2,8 +2,8 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page # home
-# title: "Ryan Borchert"
+layout: home # page # 
+title: "Ryan Borchert"
 description: "Engineering Leader | Director of Engineering | Building high-performing, scalable teams"
 ---
 **Director of Engineering // Software Team Builder**
@@ -11,7 +11,7 @@ description: "Engineering Leader | Director of Engineering | Building high-perfo
 
 I'm an engineering leader championing high-performing, collaborative teams in SaaS and automotive tech. I focus on shipping faster while building sustainable systems.
 
-- [Resume (PDF)](/resume/ryan-f-borchert-resume.pdf)
+- [Resume](/resume/ryan-f-borchert-resume.pdf)
 - [GitHub](https://github.com/ryanborchert)
 - [LinkedIn](https://linkedin.com/in/ryanborchert)
 - [ryan.borchert@gmail.com](mailto:ryan.borchert@gmail.com) — or copy: ryan.borchert@gmail.com
