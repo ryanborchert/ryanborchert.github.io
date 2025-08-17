@@ -31,6 +31,16 @@ url: "https://ryanborchert.com" # the base hostname & protocol for your site, e.
 twitter_username: ryanborchert
 github_username:  ryanborchert
 favicon: /favicon.ico
+social:
+  name: Ryan Borchert
+  links:
+    - https://linkedin.com/in/ryanborchert
+    - https://github.com/ryanborchert
+    - https://twitter.com/ryanborchert
+
+google_site_verification: "your-google-verification-code"
+
+google_analytics: "your-ga-tracking-id"
 
 # Build settings
 # theme: minima
@@ -38,7 +48,8 @@ favicon: /favicon.ico
 remote_theme: pages-themes/tactile@v0.2.0
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme 
+  - jekyll-seo-tag  
 
 # Exclude from processing.
 # The following items will not be processed, by default.
