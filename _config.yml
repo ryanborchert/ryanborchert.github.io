@@ -30,6 +30,7 @@ domain: ryanborchert.com
 url: "https://ryanborchert.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ryanborchert
 github_username:  ryanborchert
+favicon: /favicon.ico
 
 # Build settings
 theme: minima
