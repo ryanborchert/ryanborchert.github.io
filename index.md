@@ -14,7 +14,7 @@ I'm an engineering leader championing high-performing, collaborative teams in Sa
 - [Resume](/resume/ryan-f-borchert-resume.pdf)
 - [GitHub](https://github.com/ryanborchert)
 - [LinkedIn](https://linkedin.com/in/ryanborchert)
-- [ryan.borchert@gmail.com](mailto:ryan.borchert@gmail.com) — or copy: ryan.borchert@gmail.com
+- [ryan.borchert@gmail.com](mailto:ryan.borchert@gmail.com)
 <!-- - [Email me](mailto:ryan.borchert@gmail.com) — or copy: ryan.borchert@gmail.com -->
 
 <!-- Hidden bio for SEO -->
