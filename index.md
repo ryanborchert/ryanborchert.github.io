@@ -35,6 +35,7 @@ Strategic roadmap development, cross-functional leadership, agile & lean methodo
 
 ## Connect
 
+- [About](/about/) - Learn more about my background and philosophy
 - [LinkedIn](https://linkedin.com/in/ryanborchert)
 - [GitHub](https://github.com/ryanborchert)
 - [ryan.borchert@gmail.com](mailto:ryan.borchert@gmail.com)
