@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Ryan F. Borchert - Resume
+layout: null
+title: Resume
 permalink: /resume/
 ---
 
