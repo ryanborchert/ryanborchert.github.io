@@ -38,7 +38,7 @@ Strategic roadmap development, cross-functional leadership, agile & lean methodo
 
 ---
 
-*Based in Ann Arbor, MI • Open to leadership opportunities in engineering, technology strategy, and team development*
+*Based in Ann Arbor, MI*
 
 <!-- Hidden bio for SEO -->
 <p style="display:none;">
