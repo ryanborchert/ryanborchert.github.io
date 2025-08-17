@@ -31,7 +31,7 @@ Strategic roadmap development, cross-functional leadership, agile & lean methodo
 
 ## Connect
 
-- [Resume](/resume/ryan-f-borchert-resume.pdf)
+- [Resume](/resume/)
 - [LinkedIn](https://linkedin.com/in/ryanborchert)
 - [GitHub](https://github.com/ryanborchert)
 - [ryan.borchert@gmail.com](mailto:ryan.borchert@gmail.com)
