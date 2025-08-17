@@ -4,10 +4,9 @@
 
 layout: default
 title: "Ryan Borchert"
-description: "Engineering Leader | Director of Engineering | Building high-performing, scalable teams"
+description: "Engineering Leader | Director of Engineering | Scalable teams and strategic leadership"
 ---
 
-# Ryan F. Borchert
 **Engineering Director & Strategic Leader**
 
 I'm an engineering director with 19 years of experience building and scaling high-performance teams while driving innovation in software systems and industrial automation. Currently serving as Director of Engineering at OPUS IVS, I specialize in transforming engineering organizations through agile methodologies, DevOps practices, and strategic technical leadership.

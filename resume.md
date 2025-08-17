@@ -1,9 +1,8 @@
-<!DOCTYPE html>---
+---
 layout: null
 title: Resume
 permalink: /resume/
 ---
-
 <html>
 <head>
     <meta charset="utf-8">
