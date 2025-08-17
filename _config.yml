@@ -33,7 +33,8 @@ github_username:  ryanborchert
 favicon: /favicon.ico
 
 # Build settings
-theme: minima
+theme: minimal # minima
+# theme: jekyll-theme-minimal
 # remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-feed
