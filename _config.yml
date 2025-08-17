@@ -38,9 +38,9 @@ social:
     - https://github.com/ryanborchert
     - https://twitter.com/ryanborchert
 
-google_site_verification: "your-google-verification-code"
+# google_site_verification: "your-google-verification-code"
 
-google_analytics: "your-ga-tracking-id"
+google_analytics: "G-0FQLV6S96Y"
 
 # Build settings
 # theme: minima
