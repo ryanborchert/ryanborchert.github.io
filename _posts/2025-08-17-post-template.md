@@ -87,3 +87,11 @@ Wrap up your post by reinforcing the main points and connecting back to your ope
 - "The Future of Automotive Software Engineering"
 - "SaaS vs. Embedded Systems: Leadership Differences"
 - "Ann Arbor's Growing Tech Scene: An Insider's View"
+
+** What I did to build my website **
+- Setting up github pages
+- Jekyll templates - Had issues with layouts not being defined when changing templates
+- Connecting Googles analytics and search
+- SEO?
+- Tools I use when creating my site
+    - This guy uses a lot of the same thing: https://shantoroy.com/blog/tools-I-use-for-blogging/

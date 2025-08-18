@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: "Ryan Borchert - Engineering Director & Software Engineering Leader"
+title: "Ryan Borchert"
 description: "Engineering director in Ann Arbor with 19 years experience building high-performance teams, driving agile transformation, and delivering scalable software solutions in SaaS and automotive."
 keywords: "engineering director, software engineering leader, agile transformation, DevOps, team leadership, Ann Arbor"
 ---
@@ -33,6 +33,9 @@ Strategic roadmap development, cross-functional leadership, agile transformation
 ## Resume
 
 [View my complete professional background](/resume/ryan-f-borchert-resume.pdf)
+
+## Blog
+[Blog](/blog/) 
 
 ## Connect
 
