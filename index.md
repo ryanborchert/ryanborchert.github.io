@@ -3,31 +3,32 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: "Ryan Borchert"
-description: "Engineering Leader | Director of Engineering | Scalable teams and strategic leadership"
+title: "Ryan Borchert - Engineering Director & Software Engineering Leader"
+description: "Engineering director in Ann Arbor with 19 years experience building high-performance teams, driving agile transformation, and delivering scalable software solutions in SaaS and automotive."
+keywords: "engineering director, software engineering leader, agile transformation, DevOps, team leadership, Ann Arbor"
 ---
 
 **Engineering Director & Strategic Leader**
 
-I'm an engineering director with 19 years of experience building and scaling high-performance teams while driving innovation in software systems and industrial automation. Currently serving as Director of Engineering at OPUS IVS, I specialize in transforming engineering organizations through agile methodologies, DevOps practices, and strategic technical leadership.
+I'm an engineering director and software engineering leader based in Ann Arbor, Michigan, with 19 years of experience building and scaling high-performance teams while driving innovation in software systems and industrial automation. Currently serving as Director of Engineering at OPUS IVS, I specialize in agile transformation, DevOps implementation, and strategic technical leadership that delivers scalable software solutions.
 
 ## What I Do
 
-**Team Leadership & Culture Building**  
-I cultivate high-performance engineering cultures through mentorship, cross-functional collaboration, and strategic talent development across globally distributed teams.
+**Engineering Leadership & Team Building**  
+I cultivate high-performance engineering cultures through mentorship, cross-functional collaboration, and strategic talent development across globally distributed software teams.
 
-**Operational Excellence**  
-I drive measurable improvements through agile transformation, lean methodologies, and automation—delivering 20% faster delivery cycles and 50% reduced deployment times.
+**Agile Transformation & Operational Excellence**  
+I drive measurable improvements through agile methodologies, lean practices, and DevOps automation—delivering 20% faster delivery cycles and 50% reduced deployment times.
 
-**Strategic Technical Vision**  
-I align complex technical architectures with business goals, leveraging cloud platforms (AWS, Azure) and AI tools to optimize delivery and maximize team productivity.
+**Strategic Technical Leadership**  
+I align complex software architectures with business goals, leveraging cloud platforms (AWS, Azure) and modern development practices to optimize delivery and maximize team productivity.
 
-**Business Impact**  
-I've managed projects from $100K to $8M+, led teams delivering $30M+ in annual sales, and established strategic partnerships with major clients like Lucid and Rivian.
+**Business Impact & Scalable Solutions**  
+I've managed engineering projects from $100K to $8M+, led teams delivering $30M+ in annual sales, and established strategic partnerships with major automotive clients like Lucid and Rivian.
 
-## Core Expertise
+## Core Engineering Expertise
 
-Strategic roadmap development, cross-functional leadership, agile & lean methodologies, risk mitigation, mentorship & talent development, program management, cloud & native application development, and data-driven decision making.
+Strategic roadmap development, cross-functional leadership, agile transformation, DevOps leadership, risk mitigation, engineering mentorship & talent development, program management, cloud & native application development, and data-driven decision making.
 
 ## Resume
 
