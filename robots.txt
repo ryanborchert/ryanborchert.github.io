@@ -1,4 +1,7 @@
+---
+layout: none
+---
 User-agent: *
 Allow: /
 
-Sitemap: https://ryanborchert.com/sitemap.xml
+Sitemap: {{ site.url }}/sitemap.xml

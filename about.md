@@ -1,12 +1,13 @@
 ---
 layout: default
-title: About
+title: "About Ryan Borchert - Engineering Director & Software Engineering Leader"
+description: "Learn about Ryan Borchert, an engineering director in Ann Arbor specializing in agile transformation, DevOps leadership, and building high-performance software teams."
 permalink: /about/
 ---
 
 # About Ryan
 
-<img src="/assets/images/headshot.jpg" alt="Ryan Borchert" style="width: 250px; border-radius: 8px; float: right; margin: 0 0 20px 20px;">
+<img src="/assets/images/headshot.jpg" alt="Ryan Borchert, Engineering Director in Ann Arbor" style="width: 250px; border-radius: 8px; float: right; margin: 0 0 20px 20px;">
 
 I'm an engineering director with nearly two decades of experience transforming engineering organizations and delivering innovative software solutions. My career spans from hands-on software development to strategic leadership roles, with a consistent focus on building high-performing teams and driving measurable business outcomes.
 
