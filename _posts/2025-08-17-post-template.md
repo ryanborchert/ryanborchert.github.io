@@ -63,35 +63,3 @@ Wrap up your post by reinforcing the main points and connecting back to your ope
 **About the Author:** Ryan Borchert is an Engineering Director based in Ann Arbor, Michigan, with 19+ years of experience in software engineering leadership, agile transformation, and building high-performance teams.
 
 **Connect:** [LinkedIn](https://linkedin.com/in/ryanborchert) | [GitHub](https://github.com/ryanborchert) | [Email](mailto:ryan.borchert@gmail.com)
-
----
-
-## Blog Post Ideas for Engineering Leaders:
-
-**Team Leadership:**
-- "Building High-Performance Engineering Teams in a Remote World"
-- "The Engineering Manager's Guide to Effective 1:1s"
-- "From Individual Contributor to Engineering Leader: Lessons Learned"
-
-**Technical Leadership:**
-- "DevOps Transformation: A Director's Perspective"
-- "Scaling Engineering Teams: When and How to Grow"
-- "Technical Debt: Strategic Approaches for Engineering Leaders"
-
-**Agile & Process:**
-- "Agile Transformation in Traditional Industries"
-- "Beyond Scrum: Choosing the Right Methodology for Your Team"
-- "Measuring Engineering Productivity: Metrics That Matter"
-
-**Industry Insights:**
-- "The Future of Automotive Software Engineering"
-- "SaaS vs. Embedded Systems: Leadership Differences"
-- "Ann Arbor's Growing Tech Scene: An Insider's View"
-
-** What I did to build my website **
-- Setting up github pages
-- Jekyll templates - Had issues with layouts not being defined when changing templates
-- Connecting Googles analytics and search
-- SEO?
-- Tools I use when creating my site
-    - This guy uses a lot of the same thing: https://shantoroy.com/blog/tools-I-use-for-blogging/
