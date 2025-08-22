@@ -70,27 +70,6 @@ A version-controlled resume system using LaTeX for consistent, professional form
 
 ---
 
-## **Planned Projects**
-
-I'm always experimenting with new technologies and building tools to solve problems I encounter. Current ideas include:
-
-### **Engineering Tools & Automation**
-- **Infrastructure as Code Templates**: Reusable Terraform templates for common cloud architectures
-- **Development Environment Setup**: Automated development environment configuration scripts
-- **API Integration Utilities**: Common patterns and tools for service integration
-
-### **Learning & Exploration**
-- **Cloud Certification Projects**: Hands-on projects while pursuing AWS/Azure certifications  
-- **Modern Web Frameworks**: Exploring React/Vue.js for interactive applications
-- **DevOps Pipeline Examples**: Sample CI/CD configurations for different technology stacks
-
-### **Home Automation & IoT**
-- **Smart Home Integration**: Raspberry Pi-based automation and monitoring systems
-- **Network Monitoring Tools**: Personal infrastructure monitoring and alerting
-- **Energy Usage Tracking**: IoT sensors and data visualization for home efficiency
-
----
-
 ## **Project Philosophy**
 
 These projects reflect my approach to continuous learning and practical problem-solving. I believe in:
